@@ -1,0 +1,7 @@
+a=int(input("enter the nomber"))
+i=1
+pro=0
+while(i<=10):
+	pro=a*i
+	i=i+1
+	print(a,'X',i-1,'=', pro)
